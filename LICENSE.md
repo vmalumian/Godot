@@ -1,0 +1,1 @@
+Los archivos contenidos en este repositorio son propiedad intelectual de Ediciones Godot SRL. Cualquier uso debe ser aprobado por Ediciones Godot SRL de forma escrita y firmada de puño y letra por alguno de sus socios. Las tipografías y fotos volcadas en los PSD son propiedad intelecual de sus autores, los cuales quedan detallados en el interior de cada libro.
